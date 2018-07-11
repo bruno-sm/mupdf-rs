@@ -1,0 +1,9 @@
+[package]
+name = "mupdf-rs"
+version = "0.1.0"
+authors = ["Bruno-sm <bru.1bruno@gmail.com>"]
+
+[dependencies]
+
+[build-dependencies]
+bindgen = "0.37"
