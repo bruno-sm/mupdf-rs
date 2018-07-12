@@ -1,3 +1,3 @@
 # mupdf-sys
 
-These are only raw bingen bindings for MuPDF, without any abstraction.
+These are only raw bindgen bindings for MuPDF, without any abstraction.
